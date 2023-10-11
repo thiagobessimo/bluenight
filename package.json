@@ -13,9 +13,7 @@
   },
   "keywords": [
     "Blue Night",
-    "Blue Day",
     "Dark Theme",
-    "Light Theme",
     "Cool Theme",
     "Blue Theme",
     "Minimalist",
@@ -38,11 +36,6 @@
         "label": "Blue Night",
         "uiTheme": "vs-dark",
         "path": "./themes/blue-night.json"
-      },
-      {
-        "label": "Blue Day",
-        "uiTheme": "vs",
-        "path": "./themes/blue-day.json"
       }
     ]
   }

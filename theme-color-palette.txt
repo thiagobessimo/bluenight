@@ -7,12 +7,12 @@ Transparent
 #0000
 
 Whites
-#f1f2f3 - white 1 //
+#f1f2f3 - white 1
 #f2f9ff - white 2
 #f0f7ff - white 3
 
 Greys
-#8fa4b4 - grey //
+#8fa4b4 - grey
 
 Blacks
 #000510 - black 1
