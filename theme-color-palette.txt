@@ -34,6 +34,7 @@ Others
 #08ddaa - green
 #20eeee - cyan
 #2080ff - blue
+#70AEFF - blue 2
 #6040ff - purple
 #bf00ff - purple 2
 #ff60dd - pink
@@ -63,3 +64,6 @@ Others
 // 0 % 00
 
 À noite, vovô Kowalsky vê o ímã cair no pé do pinguim queixoso e vovó põe açúcar no chá de tâmaras do jabuti feliz.
+https://macromates.com/manual/en/language_grammars#naming_conventions
+
+VSCode Publisher Token: ugiuvb2ovjj7qg6rg6auor5eqkml3yn7xf7nvpvv5e63fje5iieq
